@@ -24,9 +24,9 @@ Using the application console, you can easily create an Application that runs Pa
   * **Name:** `pacman`
   * **Namespace:** `pacman`
   * **Repository types** `Git`
-  * **URL** `https://github.com/REPO_FORK_NAME/application-samples.git`
+  * **URL** `https://github.com/REPO_FORK_NAME/ocp-coffee-break.git`
   * **Branch** `main`
-  * **Path** `pacman`
+  * **Path** `app-lifecycle/pacman`
   * Select `Deploy application resources only on clusters matching specified labels`
   * **Label name** `env`
   * **Label value** `prod`
